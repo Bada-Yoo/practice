@@ -1,1 +1,2 @@
-# dog
+# drawing a dog.py
+
