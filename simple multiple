@@ -1,0 +1,13 @@
+#this code tells user 3-long num multiple 3-long number
+
+a=int(input())
+b=input()
+bone=a*int(b[2])
+btwo=a*int(b[1])
+bthree=a*int(b[0])
+final=a*int(b)
+
+print(bone)
+print(btwo)
+print(bthree)
+print(final)
