@@ -1,0 +1,10 @@
+# when user input two numbers, code tells he(her) simple operation.
+
+a, b=map(int,input().split())
+
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a//b)
+print(a%b)
