@@ -1,12 +1,2 @@
-# drawing a dog.py
-
-
-print("|\\_/|")
-
-print("|q p|   /}")
-
-print("( 0 )\"\"\"\\")
-
-print("|\"^\"`    |")
-
-print("||_/=\\\\__|")
+#nothing to say
+#first week to practice
