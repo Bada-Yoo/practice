@@ -1,12 +1,3 @@
-# drawing a dog.py
-
-
-print("|\\_/|")
-
-print("|q p|   /}")
-
-print("( 0 )\"\"\"\\")
-
-print("|\"^\"`    |")
-
-print("||_/=\\\\__|")
+# hi
+# i'm bada, newbie python learner
+# this is my private place to upload what i've done.
